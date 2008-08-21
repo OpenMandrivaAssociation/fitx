@@ -35,6 +35,7 @@ make
 
 %install
 rm -rf $RPM_BUILD_ROOT
+. /usr/share/GNUstep/Makefiles/GNUstep.sh
 %makeinstall_std
 %find_lang %{name}
 
