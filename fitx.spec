@@ -2,7 +2,7 @@ Name:		fitx
 Version:	0.5.0
 Release:	%mkrel 1
 Summary:	Fun Input Toy for Linux
-License:	New BSD License
+License:	BSD
 Group:		System/Internationalization
 URL:		http://code.google.com/p/fitx/
 Source0:	http://fitx.googlecode.com/files/%{name}_%{version}_beijing2008.src.tar.gz
