@@ -1,6 +1,6 @@
 Name:		fitx
 Version:	0.5.1
-Release:	%mkrel 2
+Release:	%mkrel 3
 Summary:	Fun Input Toy for Linux
 License:	BSD
 Group:		System/Internationalization
