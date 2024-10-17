@@ -4,7 +4,7 @@ Release:	%mkrel 5
 Summary:	Fun Input Toy for Linux
 License:	BSD
 Group:		System/Internationalization
-URL:		http://code.google.com/p/fitx/
+URL:		https://code.google.com/p/fitx/
 Source0:	http://fitx.googlecode.com/files/%{name}_%{version}.src.tar.gz
 BuildRoot:	%{_tmppath}/%{name}-%{version}-%{release}-root
 BuildRequires:	gnustep-base-devel
